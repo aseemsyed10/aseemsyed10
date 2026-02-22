@@ -1,4 +1,4 @@
-## Hi there# Hi, I'm Aseem 👋
+## Hi, I'm Aseem 👋
 
 AI (Honours) student at Durham College (Grad: 2027).  
 Interested in **Machine Learning**, **Computer Vision**, and **deploying ML apps** (FastAPI + Docker).
